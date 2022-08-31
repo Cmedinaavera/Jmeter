@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1058" it="0" lt="1058" ct="952" ts="1661969416647" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-54" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1414" it="0" lt="1414" ct="1286" ts="1661969416297" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-19" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1175" it="0" lt="1175" ct="1078" ts="1661969416535" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-43" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1384" it="0" lt="1384" ct="1253" ts="1661969416326" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-22" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1294" it="0" lt="1294" ct="1193" ts="1661969416416" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-31" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="995" it="0" lt="995" ct="861" ts="1661969416715" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-61" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1244" it="0" lt="1244" ct="1143" ts="1661969416466" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-36" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1372" it="0" lt="1372" ct="1252" ts="1661969416337" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-23" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="651" it="0" lt="651" ct="536" ts="1661969417094" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-96" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1550" it="0" lt="1550" ct="1433" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-8" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1172" it="0" lt="1172" ct="1064" ts="1661969416575" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-47" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1359" it="0" lt="1359" ct="1251" ts="1661969416387" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-28" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1071" it="0" lt="1071" ct="900" ts="1661969416675" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-57" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="871" it="0" lt="871" ct="771" ts="1661969416876" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-77" dt="text" by="833" sby="277" ng="91" na="91">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1391" it="0" lt="1391" ct="1284" ts="1661969416356" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-25" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="893" it="0" lt="893" ct="806" ts="1661969416867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-76" dt="text" by="833" sby="277" ng="85" na="85">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="746" it="0" lt="746" ct="661" ts="1661969417014" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-90" dt="text" by="833" sby="277" ng="85" na="85">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1479" it="0" lt="1479" ct="1389" ts="1661969416286" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-18" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="783" it="0" lt="783" ct="600" ts="1661969417080" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-97" dt="text" by="833" sby="277" ng="82" na="82">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1231" it="0" lt="1231" ct="1046" ts="1661969416636" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-53" dt="text" by="833" sby="277" ng="81" na="81">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1080" it="0" lt="1080" ct="894" ts="1661969416787" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-68" dt="text" by="833" sby="277" ng="81" na="81">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="761" it="0" lt="761" ct="579" ts="1661969417109" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-99" dt="text" by="833" sby="277" ng="79" na="79">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1104" it="0" lt="1104" ct="915" ts="1661969416767" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-66" dt="text" by="833" sby="277" ng="79" na="79">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1345" it="0" lt="1345" ct="1158" ts="1661969416526" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-42" dt="text" by="833" sby="277" ng="79" na="79">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1434" it="0" lt="1434" ct="1250" ts="1661969416437" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-33" dt="text" by="833" sby="277" ng="79" na="79">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1624" it="0" lt="1624" ct="1439" ts="1661969416247" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-14" dt="text" by="833" sby="277" ng="79" na="79">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="923" it="0" lt="923" ct="748" ts="1661969416949" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-83" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1357" it="0" lt="1357" ct="1172" ts="1661969416516" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-41" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1037" it="0" lt="1037" ct="853" ts="1661969416836" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-73" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1476" it="0" lt="1476" ct="1307" ts="1661969416397" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-29" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1130" it="0" lt="1130" ct="953" ts="1661969416743" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-63" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1424" it="0" lt="1424" ct="1250" ts="1661969416448" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-34" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1097" it="0" lt="1097" ct="917" ts="1661969416777" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-67" dt="text" by="833" sby="277" ng="70" na="70">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1116" it="0" lt="1116" ct="937" ts="1661969416756" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-65" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1608" it="0" lt="1608" ct="1425" ts="1661969416266" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-16" dt="text" by="833" sby="277" ng="69" na="69">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1598" it="0" lt="1598" ct="1345" ts="1661969416276" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-17" dt="text" by="833" sby="277" ng="69" na="69">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1678" it="0" lt="1678" ct="1498" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-4" dt="text" by="833" sby="277" ng="69" na="69">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1018" it="0" lt="1018" ct="839" ts="1661969416856" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-75" dt="text" by="833" sby="277" ng="70" na="70">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1507" it="0" lt="1507" ct="1329" ts="1661969416366" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-26" dt="text" by="833" sby="277" ng="71" na="71">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1176" it="0" lt="1176" ct="996" ts="1661969416697" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-59" dt="text" by="833" sby="277" ng="71" na="71">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="958" it="0" lt="958" ct="789" ts="1661969416915" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-81" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1417" it="0" lt="1417" ct="1238" ts="1661969416456" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-35" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1666" it="0" lt="1666" ct="1484" ts="1661969416207" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-10" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1308" it="0" lt="1308" ct="1125" ts="1661969416565" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-46" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1326" it="0" lt="1326" ct="1156" ts="1661969416547" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-44" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="840" it="0" lt="840" ct="656" ts="1661969417033" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-91" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1677" it="0" lt="1677" ct="1494" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-3" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1646" it="0" lt="1646" ct="1463" ts="1661969416227" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-12" dt="text" by="833" sby="277" ng="74" na="74">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1279" it="0" lt="1279" ct="979" ts="1661969416596" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-49" dt="text" by="833" sby="277" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1499" it="0" lt="1499" ct="1320" ts="1661969416376" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-27" dt="text" by="833" sby="277" ng="62" na="62">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1638" it="0" lt="1638" ct="1460" ts="1661969416237" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-13" dt="text" by="833" sby="277" ng="62" na="62">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="745" it="0" lt="745" ct="564" ts="1661969417129" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-100" dt="text" by="833" sby="277" ng="68" na="68">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1363" it="0" lt="1363" ct="1147" ts="1661969416556" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-45" dt="text" by="833" sby="277" ng="48" na="48">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1235" it="0" lt="1234" ct="1009" ts="1661969416685" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-58" dt="text" by="833" sby="277" ng="48" na="48">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1572" it="0" lt="1572" ct="1352" ts="1661969416347" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-24" dt="text" by="833" sby="277" ng="48" na="48">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1514" it="0" lt="1514" ct="1295" ts="1661969416405" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-30" dt="text" by="833" sby="277" ng="48" na="48">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1314" it="0" lt="1314" ct="1094" ts="1661969416605" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-50" dt="text" by="833" sby="277" ng="48" na="48">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="943" it="0" lt="943" ct="727" ts="1661969416976" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-86" dt="text" by="833" sby="277" ng="48" na="48">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1209" it="0" lt="1209" ct="990" ts="1661969416710" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-60" dt="text" by="833" sby="277" ng="48" na="48">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1726" it="0" lt="1726" ct="1515" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-2" dt="text" by="833" sby="277" ng="41" na="41">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="874" it="0" lt="874" ct="655" ts="1661969417056" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-95" dt="text" by="833" sby="277" ng="40" na="40">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1095" it="0" lt="1095" ct="866" ts="1661969416846" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-74" dt="text" by="833" sby="277" ng="39" na="39">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1515" it="0" lt="1515" ct="1287" ts="1661969416426" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-32" dt="text" by="833" sby="277" ng="39" na="39">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1634" it="0" lt="1634" ct="1406" ts="1661969416307" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-20" dt="text" by="833" sby="277" ng="39" na="39">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1701" it="0" lt="1700" ct="1448" ts="1661969416257" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-15" dt="text" by="833" sby="277" ng="36" na="36">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1162" it="0" lt="1162" ct="912" ts="1661969416796" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-69" dt="text" by="833" sby="277" ng="36" na="36">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1003" it="0" lt="1003" ct="686" ts="1661969417018" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-88" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1048" it="0" lt="1048" ct="732" ts="1661969416974" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-85" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="974" it="0" lt="974" ct="658" ts="1661969417048" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-94" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1525" it="0" lt="1525" ct="1209" ts="1661969416497" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-39" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1297" it="0" lt="1297" ct="987" ts="1661969416725" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-62" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1706" it="0" lt="1706" ct="1395" ts="1661969416316" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-21" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1825" it="0" lt="1825" ct="1509" ts="1661969416197" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-9" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1205" it="0" lt="1205" ct="889" ts="1661969416817" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-71" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1368" it="0" lt="1368" ct="1054" ts="1661969416655" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-55" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1275" it="0" lt="1275" ct="959" ts="1661969416747" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-64" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1396" it="0" lt="1392" ct="1083" ts="1661969416625" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-52" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1536" it="0" lt="1536" ct="1222" ts="1661969416487" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-38" dt="text" by="833" sby="277" ng="27" na="27">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="931" it="0" lt="931" ct="617" ts="1661969417092" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-98" dt="text" by="833" sby="277" ng="29" na="29">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="983" it="0" lt="983" ct="667" ts="1661969417040" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-93" dt="text" by="833" sby="277" ng="31" na="31">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1098" it="0" lt="1098" ct="787" ts="1661969416926" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-82" dt="text" by="833" sby="277" ng="26" na="26">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1217" it="0" lt="1217" ct="904" ts="1661969416806" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-70" dt="text" by="833" sby="277" ng="32" na="32">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1012" it="0" lt="1012" ct="697" ts="1661969417012" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-89" dt="text" by="833" sby="277" ng="24" na="24">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1546" it="0" lt="1546" ct="1236" ts="1661969416476" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-37" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1828" it="0" lt="1828" ct="1518" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-6" dt="text" by="833" sby="277" ng="19" na="19">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1826" it="0" lt="1826" ct="1514" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-7" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1826" it="0" lt="1826" ct="1515" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-1" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1439" it="0" lt="1439" ct="1122" ts="1661969416586" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-48" dt="text" by="833" sby="277" ng="16" na="16">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="865" it="0" lt="865" ct="551" ts="1661969417157" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-92" dt="text" by="833" sby="277" ng="34" na="34">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1050" it="0" lt="1050" ct="741" ts="1661969416975" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-84" dt="text" by="833" sby="277" ng="16" na="16">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1139" it="0" lt="1139" ct="827" ts="1661969416885" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-78" dt="text" by="833" sby="277" ng="19" na="19">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1197" it="0" lt="1197" ct="882" ts="1661969416827" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-72" dt="text" by="833" sby="277" ng="19" na="19">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1119" it="0" lt="1119" ct="809" ts="1661969416905" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-80" dt="text" by="833" sby="277" ng="24" na="24">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1047" it="0" lt="1047" ct="737" ts="1661969416977" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-87" dt="text" by="833" sby="277" ng="26" na="26">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1129" it="0" lt="1129" ct="812" ts="1661969416895" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-79" dt="text" by="833" sby="277" ng="26" na="26">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1807" it="0" lt="1807" ct="1494" ts="1661969416216" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-11" dt="text" by="833" sby="277" ng="29" na="29">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1357" it="0" lt="1357" ct="1045" ts="1661969416666" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-56" dt="text" by="833" sby="277" ng="27" na="27">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1713" it="0" lt="1713" ct="1180" ts="1661969416506" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-40" dt="text" by="833" sby="277" ng="3" na="3">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2044" it="0" lt="2044" ct="1491" ts="1661969416196" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-5" dt="text" by="833" sby="277" ng="2" na="2">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1689" it="0" lt="1689" ct="1075" ts="1661969416615" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-51" dt="text" by="833" sby="277" ng="1" na="1">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+
+<httpSample t="779" it="0" lt="779" ct="638" ts="1661969483364" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-59" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1088" it="0" lt="1088" ct="944" ts="1661969483055" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-28" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="909" it="0" lt="909" ct="768" ts="1661969483234" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-46" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1087" it="0" lt="1087" ct="936" ts="1661969483066" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-29" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1286" it="0" lt="1286" ct="1137" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-7" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1169" it="0" lt="1169" ct="1018" ts="1661969482984" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-21" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="774" it="0" lt="774" ct="620" ts="1661969483379" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-60" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="709" it="0" lt="709" ct="559" ts="1661969483444" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-67" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1240" it="0" lt="1240" ct="1042" ts="1661969482965" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-19" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1181" it="0" lt="1181" ct="986" ts="1661969483024" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-25" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="890" it="0" lt="890" ct="689" ts="1661969483315" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-54" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="536" it="0" lt="536" ct="337" ts="1661969483669" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-87" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1338" it="0" lt="1338" ct="1145" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-3" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="735" it="0" lt="735" ct="538" ts="1661969483474" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-70" dt="text" by="833" sby="277" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="456" it="0" lt="456" ct="259" ts="1661969483753" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-93" dt="text" by="833" sby="277" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="695" it="0" lt="695" ct="496" ts="1661969483514" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-74" dt="text" by="833" sby="277" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1043" it="0" lt="1043" ct="845" ts="1661969483166" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-39" dt="text" by="833" sby="277" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="868" it="0" lt="868" ct="628" ts="1661969483384" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-61" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="826" it="0" lt="826" ct="573" ts="1661969483426" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-65" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="928" it="0" lt="928" ct="689" ts="1661969483324" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-55" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="747" it="0" lt="747" ct="506" ts="1661969483505" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-73" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="498" it="0" lt="498" ct="259" ts="1661969483754" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-92" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="585" it="0" lt="585" ct="347" ts="1661969483667" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-89" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1208" it="0" lt="1208" ct="969" ts="1661969483044" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-27" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="568" it="0" lt="568" ct="329" ts="1661969483684" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-91" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1275" it="0" lt="1275" ct="1019" ts="1661969482996" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-22" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1027" it="0" lt="1027" ct="784" ts="1661969483244" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-47" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1404" it="0" lt="1404" ct="1162" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-9" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="655" it="0" lt="654" ct="399" ts="1661969483617" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-84" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="541" it="0" lt="541" ct="281" ts="1661969483730" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-94" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1147" it="0" lt="1147" ct="900" ts="1661969483124" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-35" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="535" it="0" lt="535" ct="290" ts="1661969483736" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-96" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1395" it="0" lt="1395" ct="1141" ts="1661969482876" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-10" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="737" it="0" lt="737" ct="483" ts="1661969483534" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-76" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1404" it="0" lt="1404" ct="1161" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-5" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="639" it="0" lt="639" ct="393" ts="1661969483632" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-85" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1097" it="0" lt="1097" ct="845" ts="1661969483174" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-40" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="515" it="0" lt="515" ct="273" ts="1661969483756" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-98" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="687" it="0" lt="687" ct="442" ts="1661969483584" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-81" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="925" it="0" lt="925" ct="670" ts="1661969483346" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-57" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1384" it="0" lt="1384" ct="1144" ts="1661969482887" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-11" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="726" it="0" lt="726" ct="473" ts="1661969483545" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-77" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="877" it="0" lt="877" ct="624" ts="1661969483394" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-62" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="807" it="0" lt="807" ct="562" ts="1661969483464" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-69" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="659" it="0" lt="659" ct="406" ts="1661969483612" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-82" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1017" it="0" lt="1017" ct="762" ts="1661969483254" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-48" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="592" it="0" lt="592" ct="344" ts="1661969483679" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-90" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="776" it="0" lt="776" ct="528" ts="1661969483495" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-72" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="866" it="0" lt="866" ct="612" ts="1661969483405" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-63" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="493" it="0" lt="493" ct="244" ts="1661969483778" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-100" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="968" it="0" lt="968" ct="725" ts="1661969483304" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-53" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="855" it="0" lt="855" ct="605" ts="1661969483416" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-64" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="936" it="0" lt="936" ct="682" ts="1661969483335" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-56" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="523" it="0" lt="523" ct="269" ts="1661969483748" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-97" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1156" it="0" lt="1156" ct="913" ts="1661969483115" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-34" dt="text" by="833" sby="277" ng="75" na="75">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1123" it="0" lt="1123" ct="875" ts="1661969483156" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-38" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="656" it="0" lt="656" ct="408" ts="1661969483623" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-83" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="985" it="0" lt="985" ct="738" ts="1661969483294" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-52" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1265" it="0" lt="1265" ct="1020" ts="1661969483014" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-24" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="923" it="0" lt="923" ct="676" ts="1661969483356" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-58" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1204" it="0" lt="1204" ct="957" ts="1661969483075" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-30" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1135" it="0" lt="1135" ct="888" ts="1661969483144" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-37" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="448" it="0" lt="448" ct="202" ts="1661969483831" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-99" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="723" it="0" lt="723" ct="477" ts="1661969483556" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-78" dt="text" by="833" sby="277" ng="45" na="45">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="853" it="0" lt="853" ct="610" ts="1661969483434" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-66" dt="text" by="833" sby="277" ng="36" na="36">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="558" it="0" lt="558" ct="315" ts="1661969483729" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-95" dt="text" by="833" sby="277" ng="36" na="36">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="722" it="0" lt="722" ct="479" ts="1661969483565" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-79" dt="text" by="833" sby="277" ng="36" na="36">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1420" it="0" lt="1420" ct="1175" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-4" dt="text" by="833" sby="277" ng="36" na="36">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1353" it="0" lt="1353" ct="1110" ts="1661969482934" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-16" dt="text" by="833" sby="277" ng="36" na="36">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1421" it="0" lt="1421" ct="1177" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-6" dt="text" by="833" sby="277" ng="31" na="31">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1421" it="0" lt="1421" ct="1175" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-8" dt="text" by="833" sby="277" ng="31" na="31">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="834" it="0" lt="834" ct="589" ts="1661969483454" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-68" dt="text" by="833" sby="277" ng="31" na="31">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1396" it="0" lt="1396" ct="1147" ts="1661969482895" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-12" dt="text" by="833" sby="277" ng="28" na="28">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="767" it="0" lt="767" ct="518" ts="1661969483524" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-75" dt="text" by="833" sby="277" ng="28" na="28">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="628" it="0" lt="628" ct="377" ts="1661969483663" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-88" dt="text" by="833" sby="277" ng="28" na="28">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1087" it="0" lt="1087" ct="838" ts="1661969483204" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-43" dt="text" by="833" sby="277" ng="28" na="28">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1107" it="0" lt="1107" ct="856" ts="1661969483184" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-41" dt="text" by="833" sby="277" ng="28" na="28">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="638" it="0" lt="638" ct="390" ts="1661969483653" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-86" dt="text" by="833" sby="277" ng="28" na="28">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1102" it="0" lt="1102" ct="846" ts="1661969483194" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-42" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1010" it="0" lt="1010" ct="750" ts="1661969483286" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-51" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1068" it="0" lt="1068" ct="809" ts="1661969483228" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-45" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1381" it="0" lt="1381" ct="1124" ts="1661969482915" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-14" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1161" it="0" lt="1161" ct="903" ts="1661969483135" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-36" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1262" it="0" lt="1262" ct="1004" ts="1661969483034" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-26" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1200" it="0" lt="1200" ct="942" ts="1661969483096" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-32" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="731" it="0" lt="731" ct="462" ts="1661969483575" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-80" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1221" it="0" lt="1221" ct="949" ts="1661969483085" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-31" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1439" it="0" lt="1439" ct="1170" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-1" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1401" it="0" lt="1401" ct="1134" ts="1661969482905" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-13" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1361" it="0" lt="1361" ct="1093" ts="1661969482945" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-17" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1031" it="0" lt="1031" ct="761" ts="1661969483275" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-50" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1382" it="0" lt="1382" ct="1111" ts="1661969482924" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-15" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1331" it="0" lt="1331" ct="1060" ts="1661969482975" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-20" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="822" it="0" lt="822" ct="552" ts="1661969483484" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-71" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1200" it="0" lt="1200" ct="933" ts="1661969483106" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-33" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1298" it="0" lt="1298" ct="1025" ts="1661969483008" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-23" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1351" it="0" lt="1351" ct="1082" ts="1661969482955" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-18" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1041" it="0" lt="1041" ct="769" ts="1661969483265" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-49" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1092" it="0" lt="1092" ct="826" ts="1661969483214" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-44" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1439" it="0" lt="1439" ct="1169" ts="1661969482867" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-2" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+
+<httpSample t="1341" it="0" lt="1339" ct="1060" ts="1661969737829" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-76" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="774" it="0" lt="774" ct="486" ts="1661969738397" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-185" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="957" it="0" lt="955" ct="676" ts="1661969738213" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-153" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="739" it="0" lt="737" ct="460" ts="1661969738431" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-192" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1542" it="0" lt="1540" ct="1264" ts="1661969737628" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-36" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1328" it="0" lt="1326" ct="1051" ts="1661969737842" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-79" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1633" it="0" lt="1633" ct="1449" ts="1661969737558" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-22" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1233" it="0" lt="1233" ct="1048" ts="1661969737958" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-102" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="991" it="0" lt="991" ct="731" ts="1661969738202" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-151" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1002" it="0" lt="1002" ct="744" ts="1661969738192" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-149" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1177" it="0" lt="1177" ct="917" ts="1661969738017" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-114" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1650" it="0" lt="1650" ct="1467" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-3" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1096" it="0" lt="1096" ct="911" ts="1661969738097" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-130" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1325" it="0" lt="1324" ct="1139" ts="1661969737873" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-85" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1090" it="0" lt="1089" ct="825" ts="1661969738108" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-132" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="796" it="0" lt="795" ct="530" ts="1661969738402" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-178" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1659" it="0" lt="1658" ct="1480" ts="1661969737543" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-15" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1313" it="0" lt="1312" ct="1136" ts="1661969737889" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-88" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1658" it="0" lt="1657" ct="1479" ts="1661969737543" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-6" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1659" it="0" lt="1658" ct="1478" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-13" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1463" it="0" lt="1462" ct="1286" ts="1661969737739" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-58" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1078" it="0" lt="1078" ct="895" ts="1661969738128" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-136" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="944" it="0" lt="944" ct="782" ts="1661969738295" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-166" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1505" it="0" lt="1505" ct="1339" ts="1661969737743" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-59" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="954" it="0" lt="954" ct="786" ts="1661969738294" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-169" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1250" it="0" lt="1250" ct="1082" ts="1661969737998" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-110" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1226" it="0" lt="1226" ct="1057" ts="1661969738022" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-115" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1696" it="0" lt="1696" ct="1282" ts="1661969737603" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-31" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="849" it="0" lt="849" ct="439" ts="1661969738450" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-200" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="882" it="0" lt="882" ct="470" ts="1661969738419" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-194" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="942" it="0" lt="942" ct="530" ts="1661969738359" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-182" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="903" it="0" lt="903" ct="495" ts="1661969738398" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-188" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1758" it="0" lt="1758" ct="1349" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-5" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1119" it="0" lt="1119" ct="708" ts="1661969738182" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-147" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="895" it="0" lt="895" ct="482" ts="1661969738412" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-184" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="861" it="0" lt="861" ct="448" ts="1661969738446" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-177" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="887" it="0" lt="887" ct="470" ts="1661969738420" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-193" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1474" it="0" lt="1474" ct="1056" ts="1661969737833" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-77" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="872" it="0" lt="872" ct="454" ts="1661969738435" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-197" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1342" it="0" lt="1340" ct="925" ts="1661969737967" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-104" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="875" it="0" lt="875" ct="460" ts="1661969738434" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-191" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1770" it="0" lt="1770" ct="1544" ts="1661969737543" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-4" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1720" it="0" lt="1720" ct="1496" ts="1661969737594" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-29" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1497" it="0" lt="1497" ct="1267" ts="1661969737817" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-74" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1199" it="0" lt="1199" ct="974" ts="1661969738119" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-134" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1105" it="0" lt="1105" ct="718" ts="1661969738218" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-154" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1715" it="0" lt="1715" ct="1489" ts="1661969737608" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-32" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1101" it="0" lt="1101" ct="718" ts="1661969738222" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-155" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1071" it="0" lt="1071" ct="683" ts="1661969738252" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-161" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1270" it="0" lt="1270" ct="1044" ts="1661969738053" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-121" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="884" it="0" lt="884" ct="511" ts="1661969738439" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-190" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="894" it="0" lt="894" ct="503" ts="1661969738430" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-196" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1056" it="0" lt="1056" ct="683" ts="1661969738268" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-164" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1726" it="0" lt="1726" ct="1497" ts="1661969737598" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-30" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1060" it="0" lt="1059" ct="703" ts="1661969738265" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-163" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1077" it="0" lt="1077" ct="725" ts="1661969738247" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-160" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1641" it="0" lt="1641" ct="1252" ts="1661969737683" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-47" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1266" it="0" lt="1266" ct="921" ts="1661969738063" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-123" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1341" it="0" lt="1341" ct="1022" ts="1661969737988" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-108" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1250" it="0" lt="1250" ct="929" ts="1661969738079" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-126" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1470" it="0" lt="1470" ct="1122" ts="1661969737859" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-82" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1612" it="0" lt="1612" ct="1267" ts="1661969737717" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-54" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="966" it="0" lt="966" ct="624" ts="1661969738363" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-183" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1192" it="0" lt="1192" ct="874" ts="1661969738137" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-138" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1387" it="0" lt="1387" ct="1075" ts="1661969737947" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-100" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1578" it="0" lt="1578" ct="1254" ts="1661969737757" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-62" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1103" it="0" lt="1102" ct="789" ts="1661969738232" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-157" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1633" it="0" lt="1633" ct="1325" ts="1661969737702" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-51" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1541" it="0" lt="1541" ct="1232" ts="1661969737793" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-69" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1536" it="0" lt="1536" ct="1225" ts="1661969737798" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-70" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1625" it="0" lt="1625" ct="1307" ts="1661969737710" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-52" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1188" it="0" lt="1188" ct="862" ts="1661969738147" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-140" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1202" it="0" lt="1202" ct="876" ts="1661969738133" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-137" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1027" it="0" lt="1027" ct="782" ts="1661969738310" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-170" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1364" it="0" lt="1364" ct="1134" ts="1661969737973" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-105" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1549" it="0" lt="1549" ct="1317" ts="1661969737788" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-68" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1789" it="0" lt="1789" ct="1547" ts="1661969737563" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-23" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1720" it="0" lt="1720" ct="1475" ts="1661969737632" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-37" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1626" it="0" lt="1626" ct="1384" ts="1661969737732" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-57" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1151" it="0" lt="1151" ct="823" ts="1661969738207" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-152" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1200" it="0" lt="1200" ct="957" ts="1661969738158" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-142" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1031" it="0" lt="1031" ct="782" ts="1661969738327" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-175" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1645" it="0" lt="1645" ct="1406" ts="1661969737713" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-53" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1741" it="0" lt="1741" ct="1482" ts="1661969737623" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-35" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1382" it="0" lt="1382" ct="1147" ts="1661969737982" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-107" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1612" it="0" lt="1612" ct="1278" ts="1661969737752" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-61" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1821" it="0" lt="1821" ct="1556" ts="1661969737543" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-17" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1318" it="0" lt="1318" ct="1091" ts="1661969738047" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-120" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1263" it="0" lt="1263" ct="1028" ts="1661969738102" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-131" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1307" it="0" lt="1307" ct="1074" ts="1661969738058" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-122" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1497" it="0" lt="1497" ct="1264" ts="1661969737868" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-84" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="179" it="0" lt="179" ct="0" ts="1661969739192" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-102" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="193" it="0" lt="193" ct="0" ts="1661969739179" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-185" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="178" it="0" lt="178" ct="0" ts="1661969739194" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-114" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="180" it="0" lt="180" ct="0" ts="1661969739192" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-22" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="193" it="0" lt="193" ct="0" ts="1661969739179" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-192" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="193" it="0" lt="193" ct="0" ts="1661969739179" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-153" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="177" it="0" lt="177" ct="0" ts="1661969739194" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-149" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="177" it="0" lt="177" ct="0" ts="1661969739194" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-3" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="177" it="0" lt="177" ct="0" ts="1661969739194" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-130" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1454" it="0" lt="1454" ct="1291" ts="1661969737917" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-94" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="173" it="0" lt="173" ct="0" ts="1661969739198" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-132" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="177" it="0" lt="177" ct="0" ts="1661969739194" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-151" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="170" ct="0" ts="1661969739202" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-15" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1599" it="0" lt="1599" ct="1444" ts="1661969737774" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-64" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="171" it="0" lt="171" ct="0" ts="1661969739202" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-6" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="171" it="0" lt="171" ct="0" ts="1661969739202" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-88" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1707" it="0" lt="1707" ct="1552" ts="1661969737667" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-44" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="176" it="0" lt="176" ct="0" ts="1661969739198" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-178" dt="text" by="833" sby="277" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1020" it="0" lt="1020" ct="865" ts="1661969738354" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-181" dt="text" by="2896" sby="120" ng="200" na="200">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="175" it="0" lt="175" ct="0" ts="1661969739202" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-13" dt="text" by="833" sby="277" ng="188" na="188">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="139" it="0" lt="139" ct="0" ts="1661969739240" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-166" dt="text" by="833" sby="277" ng="187" na="187">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1288" it="0" lt="1288" ct="1127" ts="1661969738092" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-129" dt="text" by="2896" sby="120" ng="186" na="186">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1707" it="0" lt="1707" ct="1568" ts="1661969737673" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-45" dt="text" by="2896" sby="120" ng="184" na="184">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1438" it="0" lt="1438" ct="1298" ts="1661969737942" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-99" dt="text" by="2896" sby="120" ng="184" na="184">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="174" ct="0" ts="1661969739206" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-136" dt="text" by="833" sby="277" ng="185" na="185">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1578" it="0" lt="1578" ct="1447" ts="1661969737802" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-71" dt="text" by="2896" sby="120" ng="185" na="185">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="178" it="0" lt="178" ct="0" ts="1661969739202" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-58" dt="text" by="833" sby="277" ng="186" na="186">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739198" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-85" dt="text" by="833" sby="277" ng="185" na="185">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1218" it="0" lt="1217" ct="1055" ts="1661969738162" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-143" dt="text" by="2896" sby="120" ng="186" na="186">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="131" it="0" lt="131" ct="0" ts="1661969739249" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-110" dt="text" by="833" sby="277" ng="184" na="184">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="132" it="0" lt="132" ct="0" ts="1661969739248" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-169" dt="text" by="833" sby="277" ng="184" na="184">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="132" it="0" lt="132" ct="0" ts="1661969739248" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-59" dt="text" by="833" sby="277" ng="184" na="184">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="131" it="0" lt="131" ct="0" ts="1661969739249" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-115" dt="text" by="833" sby="277" ng="184" na="184">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="0" ts="1661969739301" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-188" dt="text" by="833" sby="277" ng="176" na="176">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739300" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-200" dt="text" by="833" sby="277" ng="176" na="176">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="952" it="0" lt="952" ct="453" ts="1661969738442" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-186" dt="text" by="2896" sby="120" ng="176" na="176">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="0" ts="1661969739301" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-182" dt="text" by="833" sby="277" ng="176" na="176">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="95" ct="0" ts="1661969739301" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-147" dt="text" by="833" sby="277" ng="173" na="173">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="96" ct="0" ts="1661969739300" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-31" dt="text" by="833" sby="277" ng="173" na="173">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1588" it="0" lt="1588" ct="1508" ts="1661969737812" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-73" dt="text" by="2896" sby="120" ng="171" na="171">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="107" ct="0" ts="1661969739301" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-5" dt="text" by="833" sby="277" ng="171" na="171">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="107" ct="0" ts="1661969739301" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-194" dt="text" by="833" sby="277" ng="171" na="171">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="98" it="0" lt="98" ct="0" ts="1661969739310" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-191" dt="text" by="833" sby="277" ng="171" na="171">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="104" it="0" lt="104" ct="0" ts="1661969739315" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-29" dt="text" by="833" sby="277" ng="168" na="168">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="112" ct="0" ts="1661969739309" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-104" dt="text" by="833" sby="277" ng="167" na="167">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="115" it="0" lt="115" ct="0" ts="1661969739308" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-184" dt="text" by="833" sby="277" ng="166" na="166">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1661969739315" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-4" dt="text" by="833" sby="277" ng="166" na="166">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1661969739315" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-74" dt="text" by="833" sby="277" ng="166" na="166">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1496" it="0" lt="1496" ct="1407" ts="1661969737929" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-96" dt="text" by="2896" sby="120" ng="163" na="163">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1661969739308" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-193" dt="text" by="833" sby="277" ng="163" na="163">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1661969739308" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-177" dt="text" by="833" sby="277" ng="163" na="163">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1661969739325" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-30" dt="text" by="833" sby="277" ng="161" na="161">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="111" it="0" lt="111" ct="0" ts="1661969739324" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-190" dt="text" by="833" sby="277" ng="161" na="161">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1661969739323" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-154" dt="text" by="833" sby="277" ng="159" na="159">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1661969739324" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-121" dt="text" by="833" sby="277" ng="159" na="159">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="121" ct="0" ts="1661969739319" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-134" dt="text" by="833" sby="277" ng="159" na="159">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1661969739323" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-32" dt="text" by="833" sby="277" ng="159" na="159">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1661969739308" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-197" dt="text" by="833" sby="277" ng="155" na="155">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1661969739308" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-77" dt="text" by="833" sby="277" ng="155" na="155">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ct="0" ts="1661969739324" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-161" dt="text" by="833" sby="277" ng="155" na="155">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="144" it="0" lt="144" ct="0" ts="1661969739337" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-68" dt="text" by="833" sby="277" ng="152" na="152">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="156" ct="0" ts="1661969739325" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-196" dt="text" by="833" sby="277" ng="152" na="152">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="156" ct="0" ts="1661969739325" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-160" dt="text" by="833" sby="277" ng="152" na="152">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="144" it="0" lt="144" ct="0" ts="1661969739337" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-105" dt="text" by="833" sby="277" ng="152" na="152">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1571" it="0" lt="1571" ct="1229" ts="1661969737913" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-93" dt="text" by="2896" sby="120" ng="148" na="148">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1661969739353" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-23" dt="text" by="833" sby="277" ng="148" na="148">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="147" it="0" lt="147" ct="0" ts="1661969739359" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-152" dt="text" by="833" sby="277" ng="148" na="148">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="159" ct="0" ts="1661969739353" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-37" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="187" it="0" lt="187" ct="0" ts="1661969739325" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-163" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739330" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-126" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739330" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-138" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739330" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-183" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739330" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-123" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="187" it="0" lt="187" ct="0" ts="1661969739325" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-47" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="187" it="0" lt="187" ct="0" ts="1661969739325" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-164" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739330" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-82" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="154" it="0" lt="154" ct="0" ts="1661969739358" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-57" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1661969739359" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-53" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1661969739359" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-142" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="188" it="0" lt="188" ct="0" ts="1661969739324" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-155" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1661969739359" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-175" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="176" it="0" lt="176" ct="0" ts="1661969739336" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-140" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739330" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-108" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1661969739330" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-54" dt="text" by="833" sby="277" ng="146" na="146">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="178" it="0" lt="178" ct="0" ts="1661969739336" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-52" dt="text" by="833" sby="277" ng="129" na="129">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="179" it="0" lt="179" ct="0" ts="1661969739335" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-100" dt="text" by="833" sby="277" ng="129" na="129">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="180" it="0" lt="180" ct="0" ts="1661969739335" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-62" dt="text" by="833" sby="277" ng="127" na="127">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="178" it="0" lt="178" ct="0" ts="1661969739337" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-170" dt="text" by="833" sby="277" ng="127" na="127">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="180" it="0" lt="180" ct="0" ts="1661969739335" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-51" dt="text" by="833" sby="277" ng="127" na="127">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="185" it="0" lt="185" ct="0" ts="1661969739335" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-157" dt="text" by="833" sby="277" ng="124" na="124">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="184" it="0" lt="184" ct="0" ts="1661969739336" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-70" dt="text" by="833" sby="277" ng="124" na="124">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="184" it="0" lt="184" ct="0" ts="1661969739336" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-69" dt="text" by="833" sby="277" ng="124" na="124">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="186" it="0" lt="186" ct="0" ts="1661969739336" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-137" dt="text" by="833" sby="277" ng="121" na="121">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="170" ct="0" ts="1661969739364" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-61" dt="text" by="833" sby="277" ng="120" na="120">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="171" it="0" lt="171" ct="0" ts="1661969739364" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-35" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1661969739377" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-181" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="161" it="0" lt="161" ct="0" ts="1661969739374" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-64" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="0" ts="1661969739366" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-84" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="0" ts="1661969739366" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-120" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="171" it="0" lt="171" ct="0" ts="1661969739364" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-107" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="0" ts="1661969739366" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-131" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1661969739377" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-44" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="135" it="0" lt="135" ct="0" ts="1661969739400" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-73" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="171" it="0" lt="171" ct="0" ts="1661969739364" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-17" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="162" it="0" lt="162" ct="0" ts="1661969739373" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-94" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="169" it="0" lt="169" ct="0" ts="1661969739366" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-122" dt="text" by="833" sby="277" ng="119" na="119">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1661969739381" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-71" dt="text" by="833" sby="277" ng="107" na="107">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1232" it="0" lt="1232" ct="723" ts="1661969738307" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-171" dt="text" by="2896" sby="120" ng="107" na="107">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1661969739381" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-99" dt="text" by="833" sby="277" ng="107" na="107">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="159" ct="0" ts="1661969739380" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-129" dt="text" by="833" sby="277" ng="107" na="107">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="145" it="0" lt="145" ct="0" ts="1661969739394" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-186" dt="text" by="833" sby="277" ng="107" na="107">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="155" ct="0" ts="1661969739384" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-143" dt="text" by="833" sby="277" ng="107" na="107">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="166" it="0" lt="166" ct="0" ts="1661969739380" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-45" dt="text" by="833" sby="277" ng="102" na="102">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="121" ct="0" ts="1661969739425" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-96" dt="text" by="833" sby="277" ng="102" na="102">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1303" it="0" lt="1303" ct="787" ts="1661969738243" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-159" dt="text" by="2896" sby="120" ng="102" na="102">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2023" it="0" lt="2023" ct="1938" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-7" dt="text" by="2896" sby="120" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969739485" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-93" dt="text" by="833" sby="277" ng="100" na="100">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2031" it="0" lt="2030" ct="1347" ts="1661969737543" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-18" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1772" it="0" lt="1772" ct="1690" ts="1661969737808" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-72" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1282" it="0" lt="1282" ct="1190" ts="1661969738313" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-173" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1701" it="0" lt="1701" ct="1613" ts="1661969737894" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-89" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1458" it="0" lt="1458" ct="1371" ts="1661969738142" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-139" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1762" it="0" lt="1762" ct="1336" ts="1661969737838" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-78" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="457" it="0" lt="457" ct="0" ts="1661969739179" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-76" dt="text" by="833" sby="277" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1553" it="0" lt="1553" ct="945" ts="1661969738083" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-127" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1483" it="0" lt="1483" ct="968" ts="1661969738153" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-141" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1548" it="0" lt="1548" ct="948" ts="1661969738088" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-128" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1812" it="0" lt="1812" ct="1208" ts="1661969737824" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-75" dt="text" by="2896" sby="120" ng="99" na="99">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1466" it="0" lt="1466" ct="1357" ts="1661969738177" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-146" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1631" it="0" lt="1631" ct="975" ts="1661969738012" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-113" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1647" it="0" lt="1647" ct="1531" ts="1661969738003" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-111" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1888" it="0" lt="1888" ct="1773" ts="1661969737763" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-63" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2107" it="0" lt="2107" ct="1991" ts="1661969737544" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-19" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1773" it="0" lt="1773" ct="1279" ts="1661969737878" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-86" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1998" it="0" lt="1998" ct="1887" ts="1661969737653" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-41" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1206" it="0" lt="1206" ct="445" ts="1661969738445" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-180" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2014" it="0" lt="2014" ct="1897" ts="1661969737637" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-38" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1528" it="0" lt="1528" ct="1413" ts="1661969738123" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-135" dt="text" by="2896" sby="120" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="113" ct="0" ts="1661969739539" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-171" dt="text" by="833" sby="277" ng="98" na="98">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1661969739546" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-159" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="477" it="0" lt="477" ct="0" ts="1661969739179" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-79" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1329" it="0" lt="1329" ct="685" ts="1661969738327" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-174" dt="text" by="2896" sby="120" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1484" it="0" lt="1484" ct="801" ts="1661969738172" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-145" dt="text" by="2896" sby="120" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1362" it="0" lt="1362" ct="1246" ts="1661969738294" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-167" dt="text" by="2896" sby="120" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1993" it="0" lt="1993" ct="1278" ts="1661969737663" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-43" dt="text" by="2896" sby="120" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2083" it="0" lt="2083" ct="1454" ts="1661969737573" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-25" dt="text" by="2896" sby="120" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1964" it="0" lt="1964" ct="1319" ts="1661969737692" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-49" dt="text" by="2896" sby="120" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1733" it="0" lt="1733" ct="1079" ts="1661969737923" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-95" dt="text" by="2896" sby="120" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="477" it="0" lt="477" ct="0" ts="1661969739179" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-36" dt="text" by="833" sby="277" ng="97" na="97">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739566" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-7" dt="text" by="833" sby="277" ng="94" na="94">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1878" it="0" lt="1878" ct="1230" ts="1661969737782" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-67" dt="text" by="2896" sby="120" ng="94" na="94">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969739574" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-18" dt="text" by="833" sby="277" ng="94" na="94">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1661969739580" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-72" dt="text" by="833" sby="277" ng="92" na="92">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2134" it="0" lt="2134" ct="2038" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-8" dt="text" by="2896" sby="120" ng="91" na="91">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1769" it="0" lt="1769" ct="1673" ts="1661969737908" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-92" dt="text" by="2896" sby="120" ng="91" na="91">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969739595" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-173" dt="text" by="833" sby="277" ng="91" na="91">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969739595" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-89" dt="text" by="833" sby="277" ng="91" na="91">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1661969739601" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-78" dt="text" by="833" sby="277" ng="89" na="89">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1661969739601" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-139" dt="text" by="833" sby="277" ng="88" na="88">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1674" it="0" lt="1674" ct="946" ts="1661969738038" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-118" dt="text" by="2896" sby="120" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1445" it="0" lt="1445" ct="1364" ts="1661969738273" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-165" dt="text" by="2896" sby="120" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1661969739637" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-141" dt="text" by="833" sby="277" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1661969739637" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-127" dt="text" by="833" sby="277" ng="87" na="87">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969739637" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-128" dt="text" by="833" sby="277" ng="85" na="85">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969739637" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-75" dt="text" by="833" sby="277" ng="85" na="85">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969739643" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-146" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969739643" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-113" dt="text" by="833" sby="277" ng="83" na="83">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1624" it="0" lt="1624" ct="969" ts="1661969738114" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-133" dt="text" by="2896" sby="120" ng="81" na="81">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1437" it="0" lt="1437" ct="1349" ts="1661969738308" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-172" dt="text" by="2896" sby="120" ng="81" na="81">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739651" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-111" dt="text" by="833" sby="277" ng="81" na="81">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1671" it="0" lt="1671" ct="1583" ts="1661969738074" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-125" dt="text" by="2896" sby="120" ng="81" na="81">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="0" ts="1661969739652" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-63" dt="text" by="833" sby="277" ng="81" na="81">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1661969739652" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-135" dt="text" by="833" sby="277" ng="79" na="79">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ct="0" ts="1661969739652" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-41" dt="text" by="833" sby="277" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1925" it="0" lt="1925" ct="1828" ts="1661969737847" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-80" dt="text" by="2896" sby="120" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1875" it="0" lt="1875" ct="1219" ts="1661969737897" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-90" dt="text" by="2896" sby="120" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ct="0" ts="1661969739652" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-19" dt="text" by="833" sby="277" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1585" it="0" lt="1585" ct="1488" ts="1661969738187" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-148" dt="text" by="2896" sby="120" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1478" it="0" lt="1478" ct="793" ts="1661969738294" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-168" dt="text" by="2896" sby="120" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ct="0" ts="1661969739652" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-180" dt="text" by="833" sby="277" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ct="0" ts="1661969739652" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-38" dt="text" by="833" sby="277" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="120" it="0" lt="120" ct="0" ts="1661969739652" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-86" dt="text" by="833" sby="277" ng="78" na="78">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2160" it="0" lt="2160" ct="2062" ts="1661969737613" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-33" dt="text" by="2896" sby="120" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1661969739657" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-43" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1661969739657" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-49" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1999" it="0" lt="1999" ct="1901" ts="1661969737774" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-65" dt="text" by="2896" sby="120" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1661969739656" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-167" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="112" ct="0" ts="1661969739661" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-67" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1661969739657" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-95" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1661969739656" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-174" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1661969739657" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-25" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1661969739656" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-145" dt="text" by="833" sby="277" ng="73" na="73">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1661969739677" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-92" dt="text" by="833" sby="277" ng="72" na="72">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1661969739677" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-8" dt="text" by="833" sby="277" ng="64" na="64">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1351" it="0" lt="1351" ct="451" ts="1661969738438" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-198" dt="text" by="2896" sby="120" ng="63" na="63">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2242" it="0" lt="2242" ct="1484" ts="1661969737549" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-20" dt="text" by="2896" sby="120" ng="63" na="63">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1361" it="0" lt="1361" ct="466" ts="1661969738430" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-195" dt="text" by="2896" sby="120" ng="63" na="63">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1943" it="0" lt="1942" ct="1167" ts="1661969737854" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-81" dt="text" by="2896" sby="120" ng="63" na="63">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="84" ct="0" ts="1661969739712" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-118" dt="text" by="833" sby="277" ng="63" na="63">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1916" it="0" lt="1916" ct="1258" ts="1661969737883" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-87" dt="text" by="2896" sby="120" ng="62" na="62">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2216" it="0" lt="2216" ct="2131" ts="1661969737583" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-27" dt="text" by="2896" sby="120" ng="62" na="62">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1661969739718" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-165" dt="text" by="833" sby="277" ng="62" na="62">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2258" it="0" lt="2258" ct="2173" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-2" dt="text" by="2896" sby="120" ng="62" na="62">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2119" it="0" lt="2119" ct="1471" ts="1661969737687" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-48" dt="text" by="2896" sby="120" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1619" it="0" lt="1619" ct="879" ts="1661969738198" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-150" dt="text" by="2896" sby="120" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1887" it="0" lt="1887" ct="1089" ts="1661969737932" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-97" dt="text" by="2896" sby="120" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2173" it="0" lt="2173" ct="1527" ts="1661969737648" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-40" dt="text" by="2896" sby="120" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1594" it="0" lt="1594" ct="665" ts="1661969738227" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-156" dt="text" by="2896" sby="120" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2164" it="0" lt="2164" ct="1293" ts="1661969737657" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-42" dt="text" by="2896" sby="120" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="96" ct="0" ts="1661969739738" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-133" dt="text" by="833" sby="277" ng="61" na="61">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1661969739745" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-172" dt="text" by="833" sby="277" ng="60" na="60">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1820" it="0" lt="1820" ct="1128" ts="1661969738027" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-116" dt="text" by="2896" sby="120" ng="60" na="60">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1661969739745" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-125" dt="text" by="833" sby="277" ng="60" na="60">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2071" it="0" lt="2071" ct="1374" ts="1661969737779" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-66" dt="text" by="2896" sby="120" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2271" it="0" lt="2271" ct="1570" ts="1661969737588" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-28" dt="text" by="2896" sby="120" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2291" it="0" lt="2291" ct="1585" ts="1661969737568" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-24" dt="text" by="2896" sby="120" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="96" ct="0" ts="1661969739773" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-33" dt="text" by="833" sby="277" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1661969739772" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-148" dt="text" by="833" sby="277" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="95" ct="0" ts="1661969739774" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-65" dt="text" by="833" sby="277" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1661969739772" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-90" dt="text" by="833" sby="277" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1661969739772" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-80" dt="text" by="833" sby="277" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1661969739772" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-168" dt="text" by="833" sby="277" ng="58" na="58">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1661969739789" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-198" dt="text" by="833" sby="277" ng="52" na="52">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969739791" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-20" dt="text" by="833" sby="277" ng="51" na="51">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969739791" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-195" dt="text" by="833" sby="277" ng="51" na="51">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1546" it="0" lt="1546" ct="822" ts="1661969738336" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-176" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2339" it="0" lt="2339" ct="1631" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-1" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2263" it="0" lt="2263" ct="1524" ts="1661969737619" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-34" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1436" it="0" lt="1436" ct="448" ts="1661969738446" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-199" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1873" it="0" lt="1873" ct="931" ts="1661969738009" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-112" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1644" it="0" lt="1644" ct="904" ts="1661969738238" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-158" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1980" it="0" lt="1980" ct="1070" ts="1661969737902" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-91" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="92" ct="0" ts="1661969739797" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-81" dt="text" by="833" sby="277" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1661969739806" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-48" dt="text" by="833" sby="277" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1661969739799" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-27" dt="text" by="833" sby="277" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969739802" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-2" dt="text" by="833" sby="277" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1722" it="0" lt="1722" ct="995" ts="1661969738167" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-144" dt="text" by="2896" sby="120" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1661969739799" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-87" dt="text" by="833" sby="277" ng="49" na="49">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1919" it="0" lt="1919" ct="957" ts="1661969737992" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-109" dt="text" by="2896" sby="120" ng="44" na="44">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2370" it="0" lt="2370" ct="1442" ts="1661969737543" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-14" dt="text" by="2896" sby="120" ng="44" na="44">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2362" it="0" lt="2362" ct="1386" ts="1661969737554" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-21" dt="text" by="2896" sby="120" ng="44" na="44">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="96" ct="0" ts="1661969739820" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-97" dt="text" by="833" sby="277" ng="44" na="44">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1661969739817" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-150" dt="text" by="833" sby="277" ng="44" na="44">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1661969739821" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-40" dt="text" by="833" sby="277" ng="42" na="42">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1661969739821" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-156" dt="text" by="833" sby="277" ng="42" na="42">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1661969739821" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-42" dt="text" by="833" sby="277" ng="42" na="42">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="89" ct="0" ts="1661969739847" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-116" dt="text" by="833" sby="277" ng="39" na="39">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="86" ct="0" ts="1661969739850" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-66" dt="text" by="833" sby="277" ng="39" na="39">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1661969739859" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-28" dt="text" by="833" sby="277" ng="37" na="37">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1661969739859" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-24" dt="text" by="833" sby="277" ng="37" na="37">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2011" it="0" lt="2011" ct="1034" ts="1661969737938" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-98" dt="text" by="2896" sby="120" ng="37" na="37">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2405" it="0" lt="2405" ct="1600" ts="1661969737543" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-16" dt="text" by="2896" sby="120" ng="37" na="37">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1506" it="0" lt="1506" ct="510" ts="1661969738442" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-187" dt="text" by="2896" sby="120" ng="37" na="37">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1995" it="0" lt="1995" ct="1242" ts="1661969737953" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-101" dt="text" by="2896" sby="120" ng="37" na="37">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2306" it="0" lt="2306" ct="1326" ts="1661969737642" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-39" dt="text" by="2896" sby="120" ng="37" na="37">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1974" it="0" lt="1974" ct="1004" ts="1661969737977" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-106" dt="text" by="2896" sby="120" ng="35" na="35">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="1934" it="0" lt="1934" ct="857" ts="1661969738033" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-117" dt="text" by="2896" sby="120" ng="35" na="35">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1661969739882" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-176" dt="text" by="833" sby="277" ng="35" na="35">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1661969739882" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-1" dt="text" by="833" sby="277" ng="35" na="35">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="91" it="0" lt="91" ct="0" ts="1661969739882" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-112" dt="text" by="833" sby="277" ng="33" na="33">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="91" it="0" lt="91" ct="0" ts="1661969739882" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-91" dt="text" by="833" sby="277" ng="33" na="33">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739882" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-199" dt="text" by="833" sby="277" ng="31" na="31">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739882" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-158" dt="text" by="833" sby="277" ng="31" na="31">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739882" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-34" dt="text" by="833" sby="277" ng="31" na="31">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1661969739890" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-144" dt="text" by="833" sby="277" ng="28" na="28">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1661969739912" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-109" dt="text" by="833" sby="277" ng="27" na="27">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969739913" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-14" dt="text" by="833" sby="277" ng="26" na="26">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1661969739916" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-21" dt="text" by="833" sby="277" ng="26" na="26">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2257" it="0" lt="2257" ct="1289" ts="1661969737747" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-60" dt="text" by="2896" sby="120" ng="24" na="24">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2472" it="0" lt="2472" ct="1407" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-10" dt="text" by="2896" sby="120" ng="24" na="24">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2309" it="0" lt="2309" ct="2228" ts="1661969737722" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-55" dt="text" by="2896" sby="120" ng="24" na="24">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1661969739949" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-101" dt="text" by="833" sby="277" ng="24" na="24">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1661969739949" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-187" dt="text" by="833" sby="277" ng="23" na="23">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739949" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-16" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739949" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-39" dt="text" by="833" sby="277" ng="22" na="22">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739949" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-98" dt="text" by="833" sby="277" ng="20" na="20">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="94" it="0" lt="94" ct="0" ts="1661969739952" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-106" dt="text" by="833" sby="277" ng="19" na="19">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1602" it="0" lt="1602" ct="567" ts="1661969738445" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-189" dt="text" by="2896" sby="120" ng="18" na="18">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2004" it="0" lt="2004" ct="992" ts="1661969738043" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-119" dt="text" by="2896" sby="120" ng="18" na="18">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1661969739968" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-117" dt="text" by="833" sby="277" ng="18" na="18">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1825" it="0" lt="1824" ct="726" ts="1661969738258" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-162" dt="text" by="2896" sby="120" ng="17" na="17">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2015" it="0" lt="2014" ct="965" ts="1661969738068" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-124" dt="text" by="2896" sby="120" ng="17" na="17">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1661969740004" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-60" dt="text" by="833" sby="277" ng="17" na="17">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2375" it="0" lt="2375" ct="2289" ts="1661969737727" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-56" dt="text" by="2896" sby="120" ng="16" na="16">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969740015" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-10" dt="text" by="833" sby="277" ng="16" na="16">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="1752" it="0" lt="1752" ct="801" ts="1661969738353" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-179" dt="text" by="2896" sby="120" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969740031" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-55" dt="text" by="833" sby="277" ng="15" na="15">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1661969740048" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-119" dt="text" by="833" sby="277" ng="14" na="14">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1661969740048" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-189" dt="text" by="833" sby="277" ng="14" na="14">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969740083" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-124" dt="text" by="833" sby="277" ng="12" na="12">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2591" it="0" lt="2591" ct="1574" ts="1661969737579" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-26" dt="text" by="2896" sby="120" ng="12" na="12">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1661969740083" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-162" dt="text" by="833" sby="277" ng="12" na="12">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2497" it="0" lt="2497" ct="1444" ts="1661969737678" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-46" dt="text" by="2896" sby="120" ng="10" na="10">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2315" it="0" lt="2315" ct="1267" ts="1661969737863" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-83" dt="text" by="2896" sby="120" ng="10" na="10">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2637" it="0" lt="2637" ct="1565" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-12" dt="text" by="2896" sby="120" ng="10" na="10">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1661969740102" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-56" dt="text" by="833" sby="277" ng="10" na="10">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1661969740105" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-179" dt="text" by="833" sby="277" ng="9" na="9">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2687" it="0" lt="2687" ct="1611" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-11" dt="text" by="2896" sby="120" ng="8" na="8">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1661969740170" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-26" dt="text" by="833" sby="277" ng="8" na="8">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1661969740175" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-46" dt="text" by="833" sby="277" ng="7" na="7">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1661969740178" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-83" dt="text" by="833" sby="277" ng="7" na="7">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1661969740180" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-12" dt="text" by="833" sby="277" ng="5" na="5">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2730" it="0" lt="2730" ct="1566" ts="1661969737542" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-9" dt="text" by="2896" sby="120" ng="4" na="4">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="2311" it="0" lt="2311" ct="1118" ts="1661969737962" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-103" dt="text" by="2896" sby="120" ng="4" na="4">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1661969740231" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-11" dt="text" by="833" sby="277" ng="4" na="4">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="127" it="0" lt="127" ct="0" ts="1661969740273" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-9" dt="text" by="833" sby="277" ng="3" na="3">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="127" it="0" lt="127" ct="0" ts="1661969740273" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-103" dt="text" by="833" sby="277" ng="3" na="3">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+<httpSample t="2839" it="0" lt="2839" ct="1444" ts="1661969737697" s="true" lb="Visitar pagin de admin" rc="200" rm="OK" tn="Avera 2.0 1-50" dt="text" by="2896" sby="120" ng="1" na="1">
+  <java.net.URL>https://apiapp.avera.mx/#/auth/login</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="92" ct="0" ts="1661969740536" s="true" lb="Login admin" rc="200" rm="OK" tn="Avera 2.0 1-50" dt="text" by="833" sby="277" ng="1" na="1">
+  <java.net.URL>https://apiapp.avera.mx/api/authentication/admin/login</java.net.URL>
+</httpSample>
+
+</testResults>
